@@ -28,7 +28,7 @@ jobs:
         include:
         # Java
         - source: litetex-oss/java-template
-          target: litetex-oss/standard-maven-template
+          target: litetex-oss/mcm-template
         
     steps:
       - uses: actions/checkout@v4
