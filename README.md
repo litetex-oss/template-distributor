@@ -8,4 +8,4 @@ Distributes Templates to Template repos
 Templates are distributed with the following hierarchy:
 
 * [java-template](https://github.com/litetex-oss/java-template)
-  * [standard-maven-template](https://github.com/litetex-oss/standard-maven-template)
+  * [mcm-template](https://github.com/litetex-oss/mcm-template)
