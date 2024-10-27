@@ -42,8 +42,8 @@ jobs:
 
       - name: Init Git
         run: |
-          git config --global user.email "111048771+xdev-gh-bot@users.noreply.github.com"
-          git config --global user.name "XDEV Bot"
+          git config --global user.email "164098849+litetex-oss-bot@users.noreply.github.com"
+          git config --global user.name "litetex-oss-bot"
 
       - name: Manage branches
         id: manage-branches
